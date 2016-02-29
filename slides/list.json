@@ -11,5 +11,6 @@
     "hangman.md",
     "communication.md",
     "solid.md",
-    "really.md"
+    "really.md",
+    "dependency-injection.md"
 ]
