@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Saying No",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "fifth-postulate",
+    "githubRepository": "fontys-guest-lecture.2016"
+  }
+}
