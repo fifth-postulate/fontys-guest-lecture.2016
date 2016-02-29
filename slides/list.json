@@ -13,5 +13,6 @@
     "solid.md",
     "really.md",
     "dependency-injection.md",
-    "kent-beck.md"
+    "kent-beck.md",
+    "docker.md"
 ]
