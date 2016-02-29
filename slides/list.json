@@ -14,5 +14,6 @@
     "really.md",
     "dependency-injection.md",
     "kent-beck.md",
-    "docker.md"
+    "docker.md",
+    "java-ee.md"
 ]
