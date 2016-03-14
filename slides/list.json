@@ -17,5 +17,6 @@
     "kent-beck.md",
     "docker.md",
     "java-ee.md",
-    "anatomy-of-web-ui.md"
+    "anatomy-of-web-ui.md",
+    "servlets.md"
 ]
