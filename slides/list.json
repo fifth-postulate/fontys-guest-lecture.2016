@@ -18,5 +18,6 @@
     "docker.md",
     "java-ee.md",
     "anatomy-of-web-ui.md",
-    "servlets.md"
+    "servlets.md",
+    "patterns.md"
 ]
