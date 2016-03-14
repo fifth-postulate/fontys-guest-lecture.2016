@@ -16,5 +16,6 @@
     "dependency-injection.md",
     "kent-beck.md",
     "docker.md",
-    "java-ee.md"
+    "java-ee.md",
+    "anatomy-of-web-ui.md"
 ]
