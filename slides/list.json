@@ -20,5 +20,6 @@
     "anatomy-of-web-ui.md",
     "servlets.md",
     "patterns.md",
-    "templating.md"
+    "templating.md",
+    "template-example.md"
 ]
