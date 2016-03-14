@@ -19,5 +19,6 @@
     "java-ee.md",
     "anatomy-of-web-ui.md",
     "servlets.md",
-    "patterns.md"
+    "patterns.md",
+    "templating.md"
 ]
