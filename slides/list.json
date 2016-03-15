@@ -1,4 +1,5 @@
 [
+    "quick-launch.md",
     "index.md",
     "info-support.md",
     "agenda.md",
@@ -15,5 +16,18 @@
     "dependency-injection.md",
     "kent-beck.md",
     "docker.md",
-    "java-ee.md"
+    "java-ee.md",
+    "anatomy-of-web-ui.md",
+    "servlets.md",
+    "patterns.md",
+    "templating.md",
+    "template-example.md",
+    "exercise.md",
+    "what-about.md",
+    "frameworks-libraries.md",
+    "when-to-use.md",
+    "domain-driven-design.md",
+    "javaserver-faces.md",
+    "consultancy.md",
+    "feedback.md"
 ]
