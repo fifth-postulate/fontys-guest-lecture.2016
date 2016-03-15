@@ -15,7 +15,7 @@ template.fill(model);
 <!-- .element: class="fragment" -->
 
 ```html
-<label for="name"/><span id="name">Daan van Berkel</span>
+<span id="name">Daan van Berkel</span>
 ```
 <!-- .element: class="fragment" -->
 
