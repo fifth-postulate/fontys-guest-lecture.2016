@@ -5,7 +5,7 @@
 ```
 
 ```java
-Template template = new Template("<span id="name">{{name}}</span>");
+Template template = new Template("<span id=\\"name\\">{{name}}</span>");
 
 Map<String, Object> model = new HashMap<String, Object>();
 model.put("name", "Daan van Berkel");
